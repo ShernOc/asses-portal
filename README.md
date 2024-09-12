@@ -25,7 +25,9 @@ Enrollment Recommendations:
 Suggest course levels (Phase 0, 1, or 2) based on assessment outcomes
 
 # Technology Stack
-Frontend: React.js for creating dynamic user interfaces
+Frontend: React + Vite for creating dynamic user interfaces
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
 Styling: Tailwind CSS for modern and responsive design
 Backend: Node.js for server-side logic and handling requests
 Authentication: Firebase for secure user authentication
