@@ -1,0 +1,12 @@
+body{
+  background-color:white;
+  text-align: center; 
+} 
+
+li{
+  display:inline;
+  text-decoration:none;
+  padding:10px; 
+  margin:50px; 
+  
+}
