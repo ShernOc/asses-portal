@@ -1,4 +1,4 @@
-# Knowledge Assessment Portal
+# Assessment Portal
 
 # Overview
 The Knowledge Assessment Portal is designed to evaluate students' understanding of various programming languages before they enroll in courses. The primary goal is establishing a baseline of each student's knowledge, allowing instructors to tailor course materials to the existing student's skill level. 
